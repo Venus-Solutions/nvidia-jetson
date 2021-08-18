@@ -1,4 +1,4 @@
-# NVIDIA Jetson
+# NVIDIA Jetson Lab
 Online Access to Materials and Resources
 
 # References
